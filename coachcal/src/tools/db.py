@@ -1,0 +1,3 @@
+def init_db():
+    """Initialize the CoachCal database (placeholder)."""
+    ...

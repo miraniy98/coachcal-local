@@ -1,0 +1,3 @@
+def build_chart():
+    """Build a chart (placeholder)."""
+    ...

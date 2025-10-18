@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {
+      "type": "filesystem",
+      "name": "coachcal-fs",
+      "options": { "rootPath": "./coachcal/data" },
+      "tools": ["readFile", "writeFile", "listDir"]
+    }
+  ]
+}

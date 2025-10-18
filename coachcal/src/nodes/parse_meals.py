@@ -1,0 +1,3 @@
+def parse_meals_node():
+    """Parse meal inputs (placeholder)."""
+    ...

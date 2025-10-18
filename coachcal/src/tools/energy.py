@@ -1,0 +1,3 @@
+def calculate_energy():
+    """Calculate energy expenditure (placeholder)."""
+    ...

@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "coachcal"
+version = "0.1.0"
+description = "CoachCal: Local-first agentic dietician & trainer (Python + Streamlit + LangGraph + Ollama + MCP + SQLite)"
+requires-python = ">=3.11"
+dependencies = [
+  "streamlit",
+  "langgraph",
+  "pydantic",
+  "typer",
+  "rapidfuzz",
+  "numpy",
+  "pandas",
+  "matplotlib",
+  "sqlmodel",
+  "sqlite-utils",
+  "httpx",
+  "mcp[python]"
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "pytest-cov", "black", "ruff", "pre-commit"]
+
+[tool.ruff]
+line-length = 100

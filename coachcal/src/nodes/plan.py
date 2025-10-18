@@ -1,0 +1,3 @@
+def run_plan_node():
+    """Generate the daily plan (placeholder)."""
+    ...

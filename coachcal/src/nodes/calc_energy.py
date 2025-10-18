@@ -1,0 +1,3 @@
+def calc_energy_node():
+    """Calculate energy stats (placeholder)."""
+    ...

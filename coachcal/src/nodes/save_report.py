@@ -1,0 +1,3 @@
+def save_report_node():
+    """Save report data (placeholder)."""
+    ...

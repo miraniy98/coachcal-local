@@ -1,0 +1,3 @@
+def create_client():
+    """Create an MCP client (placeholder)."""
+    ...

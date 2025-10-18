@@ -1,0 +1,3 @@
+def load_foods():
+    """Load food data (placeholder)."""
+    ...
