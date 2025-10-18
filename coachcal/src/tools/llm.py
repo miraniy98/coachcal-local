@@ -1,0 +1,3 @@
+def get_llm():
+    """Return configured LLM client (placeholder)."""
+    ...

@@ -1,0 +1,3 @@
+def load_workouts():
+    """Load workout templates (placeholder)."""
+    ...

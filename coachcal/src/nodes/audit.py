@@ -1,0 +1,3 @@
+def audit_node():
+    """Audit outputs (placeholder)."""
+    ...

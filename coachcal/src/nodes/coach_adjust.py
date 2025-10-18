@@ -1,0 +1,3 @@
+def coach_adjust_node():
+    """Adjust coaching recommendations (placeholder)."""
+    ...
